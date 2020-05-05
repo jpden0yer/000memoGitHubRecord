@@ -6,12 +6,28 @@
 ==============================
 	Record 
 ==============================
-050320	how to delete a repository
-	jgjgjgjkhkjhkjh/
-gddghgjkhkljnbczeersrtedtrdtrdtrdtrdcdtrccg
-bmnmbnmbnmbnmbnmbnmbnmb
-
-050420	mmmmmmmmm
-	nlknoonlknklnlknlk
-nnnknklnkllnkknkl
-nlknlknlknlnlnlnl
+050420	How to delete a github repository
+	picture in .\memo-delete-repo050320\050420 
+1.   start out logged in to github
+2.   navigate to the repository home page
+     three possible ways
+     i. in address bar of brower type 
+        github.com/[username]/[repository name]
+     ii. from your defaul page (github.com  with 
+         no additional /) click on the repository in
+         the list  on the top right 
+     iii. from any page do the following 
+        A. on the top right click the rectangular icon
+           with a stick man in it. Then select 
+           Your Repositories
+        B.Click on the repository
+3.   click on the Settings tab
+4.   Scroll to the bottom of the page to the Danger 
+     Zone section and Click "Delete this repository" 
+     button
+5.   In the confirmation box 
+        A. Type the name of the repository
+        B.click "I understand the consequences, delete this repository"
+      Note: if the button is disabled you mistyped the repository name
+6.   If prompted enter your password
+7.   A confirmation screen comes up
